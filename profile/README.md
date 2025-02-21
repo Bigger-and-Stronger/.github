@@ -1,2 +1,2 @@
-## 👋 A study group primarily focused on Computer Graphics, CAD, and other related topics.
+## 👋 A study group primarily focused on Computer Graphics, Computer-Aided Design, and other related topics.
 

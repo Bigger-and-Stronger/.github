@@ -3,7 +3,7 @@
 ---
 
 ### Research Surveys
-- [Brep Reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction)
+- [B-Rep Reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction)
 - [Medial Axis Transform](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis)
 - [Offset Mesh Generation](https://github.com/Bigger-and-Stronger/offset-mesh-survey)
 

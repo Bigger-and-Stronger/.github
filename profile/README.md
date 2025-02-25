@@ -10,7 +10,7 @@
 ---
 
 ### Synergy of Learning Resources
-- [Visualization](https://github.com/Bigger-and-Stronger/awesome-visualization)
 - [Environment Configuration Diary](https://github.com/Bigger-and-Stronger/environment-configuration-diary)
+- [Visualization](https://github.com/Bigger-and-Stronger/awesome-visualization)
 
 ---

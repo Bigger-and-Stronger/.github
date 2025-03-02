@@ -7,6 +7,7 @@
 - [Boundary Layer Generation](https://github.com/Bigger-and-Stronger/boundary-layer-survey)
 - [Medial Axis Transform](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis)
 - [Offset Mesh Generation](https://github.com/Bigger-and-Stronger/offset-mesh-survey)
+- [Quad Meshing](https://github.com/Bigger-and-Stronger/quad-meshing-survey)
 
 ---
 

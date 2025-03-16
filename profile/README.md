@@ -11,6 +11,7 @@
 - [B-Rep Reconstruction](https://github.com/Bigger-and-Stronger/awesome-brep-reconstruction)
 - [Boundary Layer Generation](https://github.com/Bigger-and-Stronger/boundary-layer-survey)
 - [Medial Axis Transform](https://github.com/Bigger-and-Stronger/awesome-3d-medial-axis)
+- [Neural Implicit SDFs for 3D shapes](https://github.com/Bigger-and-Stronger/neural-implicit-signed-distance-fields-for-3D-shapes)
 - [Offset Mesh Generation](https://github.com/Bigger-and-Stronger/offset-mesh-survey)
 - [Quad Meshing](https://github.com/Bigger-and-Stronger/quad-meshing-survey)
 

@@ -4,7 +4,7 @@
 
 ### Projects
 - [CWDT](https://github.com/Canjia-Huang/CWDT) - Conforming Weighted Delaunay Triangulations
-- [LpCVT](https://github.com/Bigger-and-Stronger/LpCVT)
+- [LpCVT](https://github.com/Bigger-and-Stronger/LpCVT) - Lp Centroidal Voronoi Tessellation
 
 ---
 
